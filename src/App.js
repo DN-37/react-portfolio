@@ -1,9 +1,13 @@
+import Navbar from 'components/Navbar';
 import React from 'react';
 import Home from './components/Home';
 
 function App() {
   return (
-    <Home />
+    <div>
+      <Home />
+      <Navbar/>
+    </div>
   );
 }
 
