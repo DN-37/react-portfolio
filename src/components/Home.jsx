@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import Navbar from "./Navbar";
-import home from '../assets/home1.png';
+import home from '../assets/home.png';
 import play from '../assets/play.png';
 
 function Home() {
