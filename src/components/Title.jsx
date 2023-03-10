@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 function Title({ value }) {
   return (
-    <Div>
+    <Div className="sideTitle">
       <h1>{value}</h1>
     </Div>
   );
